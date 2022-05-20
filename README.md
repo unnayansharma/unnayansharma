@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @unnayansharma
 - 👀 I'm currently pursuing M.Tech (C.S.E) from IIT ROPAR
-- 🌱 I’m currently learning Machine Learning
+- 🌱 My areas of interest : Cache Memories, DRAM, Artificial Neural Networks
 - 📫 Reach me at sharmaunnayan@gmail.com
 
 <!---
